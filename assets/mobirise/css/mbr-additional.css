@@ -135,3 +135,40 @@
 #dropdown-menu-3h .navbar-toggler {
   color: #ffffff;
 }
+
+
+
+
+#header3-3i H3 {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+#footer1-3t P {
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+}
+#dropdown-menu-3u .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-3u .navbar-brand a {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 23px;
+}
+#dropdown-menu-3u .nav .link,
+#dropdown-menu-3u .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+}
+#dropdown-menu-3u .navbar,
+#dropdown-menu-3u .dropdown-menu {
+  background: #121212;
+}
+#dropdown-menu-3u .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-3u .dropdown-menu a:hover,
+#dropdown-menu-3u .dropdown-menu a:focus {
+  background: #080808;
+}
+#dropdown-menu-3u .navbar-toggler {
+  color: #ffffff;
+}
