@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Performance",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,8 +14,9 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.2",
-    "uniqCompNum": 139,
-    "versionPublish": "4.6.2"
+    "uniqCompNum": 140,
+    "versionPublish": "4.6.2",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -72,6 +73,11 @@
               "text-align": "center",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "SPAN": {
+              "color": "#000000",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         },
@@ -79,7 +85,7 @@
           "_styles": {
             "SMALL": {
               "text-align": "right",
-              "color": "#121212",
+              "color": "#000000",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
@@ -143,7 +149,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#121212",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -157,8 +163,8 @@
           "_styles": {
             "P": {
               "color": "#ffffff",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         },
@@ -173,16 +179,16 @@
               "font-size": "23px"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "1em",
+              "font-size": "1.2em",
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-family": "'Lato', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#121212"
+              "background": "#000000"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#080808"
+              "background": "#000000"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -194,12 +200,12 @@
             "hideButtons": true,
             "sticky": false,
             "transparent": false,
-            "bgColor": "#121212",
-            "fontSize": "1",
+            "bgColor": "#000000",
+            "fontSize": "1.2",
             "fontName": {
-              "name": "Lato",
-              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "css": "'Lato', sans-serif"
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
             },
             "fontColor": "#ffffff"
           },
@@ -248,8 +254,9 @@
           "_styles": {
             "H3": {
               "text-align": "center",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#000000"
             }
           },
           "_anchor": "header3-z"
@@ -267,7 +274,7 @@
           "_anchor": "header3-10"
         },
         {
-          "text": "<p>Nesta performance, eu irei recriar o quadro “La venus del espejo” (Rokeby Venus) do pintor Diego Velázquez, enquanto é projetado sobre mim, o ecrã do meu computador. Durante a projeção poderemos ver-me a eliminar as minhas contas pessoais de facebook, twitter e instagram.</p>",
+          "text": "<p>Nesta performance, eu irei recriar o quadro “La venus del espejo” (Rokeby Venus) do pintor Diego Velázquez, enquanto é projetado sobre mim, o ecrã do meu computador. Durante a projeção poderemos ver-me a eliminar as minhas contas pessoais de Facebook, Twitter e Instagram.</p>",
           "_tags": [
             "Theme"
           ],
@@ -341,7 +348,7 @@
           "_name": "content1",
           "_styles": {
             "P": {
-              "color": "#121212",
+              "color": "#000000",
               "text-align": "left",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
@@ -416,7 +423,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#121212",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -429,8 +436,8 @@
           "_styles": {
             "P": {
               "color": "#ffffff",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_anchor": "footer1-1e"
@@ -446,16 +453,16 @@
               "font-size": "23px"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "1em",
+              "font-size": "1.2em",
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-family": "'Lato', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#121212"
+              "background": "#000000"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#080808"
+              "background": "#000000"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -467,12 +474,12 @@
             "hideButtons": true,
             "sticky": false,
             "transparent": false,
-            "bgColor": "#121212",
-            "fontSize": "1",
+            "bgColor": "#000000",
+            "fontSize": "1.2",
             "fontName": {
-              "name": "Lato",
-              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "css": "'Lato', sans-serif"
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
             },
             "fontColor": "#ffffff"
           },
@@ -521,8 +528,9 @@
           "_styles": {
             "H3": {
               "text-align": "center",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#000000"
             }
           },
           "_anchor": "header3-35"
@@ -540,7 +548,7 @@
           "_anchor": "header3-36"
         },
         {
-          "text": "<p>O espelho, e a importância que ele tem, vai ser o paradoxo de toda a apresentação. Aqui estou eu, eliminando a minha presença neste ambiente virtual para me distanciar da visibilidade e pressão que as redes sociais me trazem, enquan- to, tenho uma interação direta com o espectador da minha performance, ngindo uma introspectiva da minha re exão como um ato de contemplar a minha identidade, mas que na realidade mascara apenas outro público (não online) para quem estou também a atuar.</p><p><br></p><p>Por um lado preciso de me afastar desta ciber-realidade para me conhecer, mas por outro, estou condenado a estar para sempre ligado, de alguma maneira, a esta ilusão.</p>",
+          "text": "<p>&nbsp;O anjo segura este elemento, enquanto Vénus se contempla. Ela não está a olhar para o seu reflexo, mas sim para o pintor. &nbsp;Assim permite a Vénus ter um contacto com o espectador que a observa.</p><p>O espelho, e a importância que ele tem, vai ser o paradoxo de toda a apresentação.</p><p>Aqui estou eu, eliminando a minha presença neste ambiente virtual para me distanciar da visibilidade e pressão que as redes sociais me trazem, enquanto tenho uma interação direta com o espectador da minha performance, fingindo uma introspectiva da minha refexão como um ato de contemplar a minha identidade, mas que na realidade mascara apenas outro público (não online) para quem estou também a atuar.</p><p><br></p><p>Por um lado preciso de me afastar desta ciber-realidade para me conhecer, mas por outro, estou condenado a estar para sempre ligado, de alguma maneira, a esta ilusão.</p>",
           "_tags": [
             "Theme"
           ],
@@ -634,7 +642,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#121212",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -647,8 +655,8 @@
           "_styles": {
             "P": {
               "color": "#ffffff",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_anchor": "footer1-3g"
@@ -664,16 +672,16 @@
               "font-size": "23px"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "1em",
+              "font-size": "1.2em",
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-family": "'Lato', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#121212"
+              "background": "#000000"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#080808"
+              "background": "#000000"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -685,12 +693,12 @@
             "hideButtons": true,
             "sticky": false,
             "transparent": false,
-            "bgColor": "#121212",
-            "fontSize": "1",
+            "bgColor": "#000000",
+            "fontSize": "1.2",
             "fontName": {
-              "name": "Lato",
-              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "css": "'Lato', sans-serif"
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
             },
             "fontColor": "#ffffff"
           },
@@ -727,23 +735,74 @@
       },
       "components": [
         {
+          "_inherit": "msg-box5",
           "_params": {
-            "showMeta": false
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "title": "cartaz",
-          "meta": "By John Smith posted July 30, 2015",
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sss-1400x1981.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; cartaz",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
           "_styles": {
-            "H3": {
-              "text-align": "center",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            ".mbr-header__text": {
+              "color": "#000000",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "header3-3i"
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-3v"
         },
         {
           "_params": {
@@ -828,7 +887,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#121212",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -841,8 +900,8 @@
           "_styles": {
             "P": {
               "color": "#ffffff",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_anchor": "footer1-3t"
@@ -858,16 +917,16 @@
               "font-size": "23px"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "1em",
+              "font-size": "1.2em",
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-family": "'Lato', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#121212"
+              "background": "#000000"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#080808"
+              "background": "#000000"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -879,12 +938,12 @@
             "hideButtons": true,
             "sticky": false,
             "transparent": false,
-            "bgColor": "#121212",
-            "fontSize": "1",
+            "bgColor": "#000000",
+            "fontSize": "1.2",
             "fontName": {
-              "name": "Lato",
-              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "css": "'Lato', sans-serif"
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
             },
             "fontColor": "#ffffff"
           },
